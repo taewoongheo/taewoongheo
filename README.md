@@ -1,16 +1,30 @@
-## Hi there 👋
+# Taewoong Heo
+> **Product Engineer** | Building things that matter.
 
-<!--
-**taewoongheo/taewoongheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+### **[Nyantodak (냥토닥)](https://github.com/nyangtodac)** `🔥 Building`
+> **CBT-based mental wellness app for anxiety management.**
+> - **Role:** Frontend & App Developer (Team of 2)
+> - **Tech:** React Native(Expo), Next.js, TypeScript
+> - **Focus:**
+>   - Designed Monorepo architecture to share code between Web & App.
+>   - Built a bi-directional **WebView Bridge** for seamless native interactions.
 
-Here are some ideas to get you started:
+### **[Enflo](https://github.com/taewoongheo/enflo)** `✅ Shipped`
+> **A timer app that visualizes focus through particles.** (React Native)
+> - **Key Tech:** Reanimated, Expo
+> - **Performance:** Achieved **60fps** with complex particle interactions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+| Category | Stack |
+| :--- | :--- |
+| **Core** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **DB & Infra** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+
+## Writing
+- [Expo와 Next.js가 공존하는 모노레포, 패키지 매니저 선택의 고민 과정](https://twheo.dev/blog/monorepopm/)
+- [How to build a Physics-Based Particle System](https://twheo.dev/blog/particle/)
+
+## Connect
+- **Email:** tw.heo24@gmail.com
+- **Blog:** [twheo.dev](https://twheo.dev)
