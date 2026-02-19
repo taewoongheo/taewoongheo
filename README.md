@@ -2,7 +2,7 @@
 > **Product Engineer** | Building things that matter.
 
 ## Projects
-### **[Pado (파도)](https://github.com/pado-anxiety/pado-FE)** `🔥 Building`
+### **[Pado (파도)](https://apps.apple.com/ie/app/pado-anxiety-relief-act/id6758645161)** `✅ Shipped`
 > **ACT-based mental wellness app for anxiety management.**
 > - **Role:** Frontend & App Developer (Team of 2)
 > - **Tech:** React Native(Expo), Next.js, TypeScript
