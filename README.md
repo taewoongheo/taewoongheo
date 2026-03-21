@@ -10,7 +10,7 @@
 >   - Designed Monorepo architecture to share code between Web & App.
 >   - Built a bi-directional **WebView Bridge** for seamless native interactions.
 
-### **[Enflo](https://github.com/taewoongheo/enflo)** `✅ Shipped`
+### **[Enflo](https://apps.apple.com/app/enflo-visual-flow-timer/id6753640753)** `✅ Shipped`
 > **A timer app that visualizes focus through particles.** (React Native)
 > - **Key Tech:** Reanimated, Expo
 > - **Performance:** Achieved **60fps** with complex particle interactions.
