@@ -22,8 +22,8 @@
 | **DB & Infra** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
 
 ## Writing
+- [RN iOS 3D Transform Aliasing 해결하기 - 모바일 GPU 동작 원리](https://twheo.dev/blog/3dtransformaliasing/)
 - [Expo와 Next.js가 공존하는 모노레포, 패키지 매니저 선택의 고민 과정](https://twheo.dev/blog/monorepopm/)
-- [How to build a Physics-Based Particle System](https://twheo.dev/blog/particle/)
 
 ## Connect
 - **Email:** tw.heo24@gmail.com
