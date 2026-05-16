@@ -6,7 +6,6 @@ Design Engineer building React Native apps with thoughtful interaction.
 
 - React Native / Expo
 - Interaction & animation
-- App automation
 - Indie app experiments
 
 ### Writing
