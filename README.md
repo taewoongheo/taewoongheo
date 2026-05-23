@@ -18,4 +18,5 @@ Design Engineer building React Native apps with thoughtful interaction.
 
 ### Writing
 
+- [첫 수익을 벌면서 느낀 점과 집중해야 할 것들](https://twheo.dev/blog/firstrevenueplan/)
 - [RN iOS 3D Transform Aliasing 해결하기 - 모바일 GPU 동작 원리](https://twheo.dev/blog/3dtransformaliasing/)
