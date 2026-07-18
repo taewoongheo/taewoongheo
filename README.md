@@ -1,10 +1,3 @@
-## Taewoong Heo
-
-Design Engineer building React Native apps with thoughtful interaction.
-
-- React Native / Expo
-- Interaction & animation
-
 ### Projects
 
 - [naro: Narrow It Down](https://apps.apple.com/app/naro-narrow-it-down/id6768538282)  
